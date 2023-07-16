@@ -1,0 +1,16 @@
+Here are the important points from the provided transcript:
+
+Client-side validation in HTML can be used to guide users in entering correct data and save web server resources.
+Error messages in online forms can occur due to incorrect format, empty fields, or values that are too long or too short.
+The "required" attribute can be added to form fields to ensure that the user provides a value. If a required field is empty and the submit button is clicked, the request will not be submitted to the web server.
+The "minlength" and "maxlength" attributes can be used to specify the required length for data. For example, a username may need to be between 3 and 12 characters, and a password may need to be at least 5 characters long.
+CSS can be used to visually communicate errors to users. The "input:invalid" selector can be used to select elements with invalid input, and a CSS property can be applied to set the border color to red.
+By adding the "input:focus:invalid" pseudo-class, the field will only turn red when the user is actively entering data into that field, improving the user experience.
+Using client-side validation and CSS pseudo-class selectors can greatly enhance the user experience of forms.
+More advanced techniques for form validation can be explored using JavaScript in future courses.
+These points summarize the benefits and techniques of client-side validation in HTML, including ensuring required values, specifying length requirements, and using CSS to visually communicate errors to users.
+
+
+
+
+
