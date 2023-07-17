@@ -1,0 +1,17 @@
+Here are the important points from the text:
+
+1. The Little Lemon Restaurant wants to add an about page to their website and include audio and video in embedded players.
+2. The basic HTML structure for the about page is set up, including a heading tag and a paragraph element with the about text.
+3. An audio element is added, and the src attribute is set to "music.ogg" with the type attribute set to "audio/ogg".
+4. The loop attribute is added to the audio element to enable looping of the audio.
+5. The controls attribute is added to the audio element to allow the user to play and pause the audio.
+6. The web page is saved and opened in the browser, and the audio is displayed and playable using the browser's built-in audio player.
+7. A video element is added before the paragraph element, and the src attribute is set to "video.mp4" with the type attribute set to "video/mp4".
+8. The width attribute of the video element is set to 320, and the height attribute is set to 240 to reserve space for the video.
+9. The controls attribute is added to the video element to enable video controls.
+10. The web page is saved again and opened, and the video appears with a play button to start the video.
+11. The video is muted by default by adding the muted attribute to the video element.
+12. The web page is saved once more and opened, and both the audio and video players are working as expected.
+13. The about page with embedded audio and video enhances the customer's browsing experience and makes the page more interactive.
+
+These points highlight the process of adding and customizing audio and video elements on the about page, and the importance of embedded players for an engaging web experience.
