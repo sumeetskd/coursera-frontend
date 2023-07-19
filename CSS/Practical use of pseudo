@@ -1,0 +1,11 @@
+Here are the important points from the given text:
+
+- Pseudo-classes can be used to style links on web pages, specifically known as web-link states.
+- Web-link states are often used to style the color of links that a user has already visited.
+- The link pseudo-class is used to style the initial color of links, while the visited pseudo-class is used to style links that have been visited.
+- When applying multiple pseudo-classes to an element, the order in which they are applied determines the displayed style. The acronym LVHA (link, visited, hover, active) helps remember the correct order.
+- Practical examples are provided for using the link, visited, hover, and active pseudo-classes to style links.
+- The hover pseudo-class can be used to create additional effects, such as changing the color or applying a box-shadow on elements.
+- By properly utilizing pseudo-classes, web pages can become more interactive and visually appealing.
+- The examples demonstrate how to style links and create hover effects using pseudo-classes.
+- Understanding and using pseudo-classes effectively improves the interactivity and styling of web pages.
