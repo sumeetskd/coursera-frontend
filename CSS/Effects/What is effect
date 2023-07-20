@@ -1,0 +1,15 @@
+Important points from the text:
+
+1. **Animations and Effects**: Most popular websites use numerous animation effects, such as sliding galleries, hover effects, cursor effects, etc. Animations bring life-like quality to web pages and have become an integral part of web development.
+
+2. **History of Effects**: Graphics Interchange Format (GIFs) and Flash were some of the early attempts to bring effects to web pages. CSS became popular for adding effects due to its simplicity and ability to manipulate formats like SVGs.
+
+3. **Tools for Adding Animations**: Front-end developers can use libraries like jQuery and Pop Motion to add animations to websites. However, CSS is still popular due to its ease of learning and resource efficiency.
+
+4. **Popular Effects**: Some popular effects include hover effects for highlighting elements, changing the appearance of the cursor, sliding galleries, video backgrounds, parallax effect for creating depth, back-to-the-top effect, and full-screen snapping.
+
+5. **Pros of Effects**: Effects attract users' attention, highlight special features, improve creativity and aesthetics of websites, and create intuitive navigation.
+
+6. **Cons of Effects**: Too many animations can lead to distraction and drive users away. Effects can increase CSS file size, which may slow down web page loading in low-bandwidth areas.
+
+7. **Importance of Effects**: Websites without effects can be dull and challenging for users to navigate. Mastering CSS effects allows developers to create user-friendly web pages that users love to use.
