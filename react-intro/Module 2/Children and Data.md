@@ -1,3 +1,18 @@
+## Self Notes:
+
+
+Data in react can be handled by 2 methods between components:
+
+1. Props
+2. States
+
+Props: Data comes from outside component, ie. parent component, 
+-> the props data is immutable
+-> the data in props belongs to the parent that renders the component
+
+States: Data is present within the component, it uses component's data
+-> it is mutable
+
 Sure! Here are the important points from the given text:
 
 1. Data Flow in React: React uses one-way data flow, where data moves from top to bottom through the component hierarchy. Changes are transmitted through the system, ensuring a predictable data flow.
